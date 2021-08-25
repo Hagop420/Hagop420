@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hagop420
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web Development
+-
+- 🌱 I’m currently learning Vanilla javaScript
 - 💞️ I’m looking to collaborate on Visual Studio Code
 - 📫 How to reach me https://prod.liveshare.vsengsaas.visualstudio.com/join?15C8A326B5C77EBC95986C57ACED86D8A079
 
