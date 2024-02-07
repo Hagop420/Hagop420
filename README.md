@@ -11,7 +11,7 @@ Portfolio: https://hagop420.github.io/Portfolio/
 
 
  A little more about my skills...
-const Jack = {
+  const JACK = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Bootstrap" , "SCSS" "Tailwind CSS", "Raw CSS"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
