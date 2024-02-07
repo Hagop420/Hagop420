@@ -18,3 +18,4 @@ Portfolio: https://hagop420.github.io/Portfolio/
   tools: ["daisyUI", "Slack", "VS Code", "npm", "GIT", "Vite", pgweb", Google docs.", "Microsoft Word"]
   design: ["Figma"],
 }
+ 
