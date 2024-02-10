@@ -9,9 +9,9 @@ Portfolio: https://hagop420.github.io/Portfolio/
 🎯 Currently working on updating my portfolio to be populated with all of my skills!
 📫 How to reach me: jack161swe@gmail.com
 
-
+```
  A little more about my skills...
-```  const JACK = {
+ const JACK = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Bootstrap" , "SCSS" "Tailwind CSS", "Raw CSS"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
