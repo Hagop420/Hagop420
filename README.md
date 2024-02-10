@@ -11,11 +11,11 @@ Portfolio: https://hagop420.github.io/Portfolio/
 
 
  A little more about my skills...
-  const JACK = {
+```  const JACK = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Bootstrap" , "SCSS" "Tailwind CSS", "Raw CSS"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
   tools: ["daisyUI", "Slack", "VS Code", "npm", "GIT", "Vite", pgweb", Google docs.", "Microsoft Word"]
   design: ["Figma"],
-}
+}```
  
