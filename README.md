@@ -17,5 +17,6 @@ Portfolio: https://hagop420.github.io/Portfolio/
   deployment: ["AWS", "GH-Pages"],
   tools: ["daisyUI", "Slack", "VS Code", "npm", "GIT", "Vite", pgweb", Google docs.", "Microsoft Word"]
   design: ["Figma"],
-}```
+}
+```
  
