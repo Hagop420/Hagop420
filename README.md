@@ -5,7 +5,9 @@ Linkedin: https://www.linkedin.com/in/hagop-almadjian-607342240/
 Portfolio: https://hagop420.github.io/Portfolio/
 
 🏠 Based in Burbank, California.
+
 💻 Software Engineer.
+
 🎯 Currently working on conerting my ajax project [https://hagop420.github.io/Spaceaholics/](https://hagop420.github.io/Spaceaholics/)
  into TypeScript.
  
