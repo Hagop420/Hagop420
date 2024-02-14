@@ -8,7 +8,7 @@ Portfolio: https://hagop420.github.io/Portfolio/
 
 💻 Software Engineer.
 
-🎯 Currently working on conerting my ajax project [https://hagop420.github.io/Spaceaholics/](https://hagop420.github.io/Spaceaholics/)
+🎯 Currently working on converting my ajax project [https://hagop420.github.io/Spaceaholics/](https://hagop420.github.io/Spaceaholics/)
  into TypeScript.
  
 📫 How to reach me: jack161swe@gmail.com
