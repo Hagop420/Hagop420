@@ -8,8 +8,7 @@ Portfolio: https://hagop420.github.io/Portfolio/
 
 💻 Software Engineer.
 
-🎯 Currently working on converting my ajax project [https://hagop420.github.io/Spaceaholics/](https://hagop420.github.io/Spaceaholics/)
- into TypeScript.
+🎯 Actively in the job search.
  
 📫 How to reach me: jack161swe@gmail.com
 
@@ -18,7 +17,7 @@ Portfolio: https://hagop420.github.io/Portfolio/
  const JACK = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Bootstrap" , "SCSS" "Tailwind CSS", "Raw CSS"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
-  deployment: ["AWS", "GH-Pages"],
+  deployment: ["AWS", "GH-Pages" , "Hostinger"],
   tools: ["daisyUI", "Slack", "VS Code", "npm", "GIT", "Vite", pgweb", Google docs.", "Microsoft Word"]
   design: ["Figma"],
 }
